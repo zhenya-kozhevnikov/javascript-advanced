@@ -1,1 +1,0 @@
-document.getElementsByTagName('div')[0].children[1].innerHTML = window.navigator.userAgent;
